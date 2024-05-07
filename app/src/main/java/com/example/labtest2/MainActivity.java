@@ -16,7 +16,7 @@ class color{
         return "The color is " + name + "\n";
     }
 }
-
+//
 class Red extends color{
     public Red(){
         super("Red");
